@@ -1,7 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-Walawe, ngerjain capstone kita
+We are bangkit capstone team C241-PS005 working on capstone project FreshMeter.
 
+## What is FreshMeter ?
+
+It's an application to analyze the freshness of the fruits using machine learning algorithm.
+
+## Our team members
+
+| Name | Bangkit ID | 
+| --- | --- |
+| Nurul Aini Komarudin | M299D4KX2524 | 
+| Fajrul Falah Ahmad | M329D4KY3237 |
+| Givandra Haikal Adjie | M200D4KY1878 |
+| Rahman Yusuf | C009D4KY1130 |
+| Febrina Anggraini | C009D4KX0907 |
+| Chandra Wirabuana | A009D4KY4356 |
+| Resi Surya Agustian | A314D4KY4586 |
+ 
 <!--
 
 **Here are some ideas to get you started:**
