@@ -17,6 +17,10 @@ It's an application to analyze the freshness of the fruits using machine learnin
 | Febrina Anggraini | C009D4KX0907 |
 | Chandra Wirabuana | A009D4KY4356 |
 | Resi Surya Agustian | A314D4KY4586 |
+
+## Great application, where can i see the demo video ?
+
+Coming soon
  
 <!--
 
