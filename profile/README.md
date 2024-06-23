@@ -20,7 +20,7 @@ It's an application to analyze the freshness of the fruits using machine learnin
 
 ## Great application, where can i see the demo video ?
 
-Coming soon
+https://youtu.be/r0eWMloSjMA
  
 <!--
 
